@@ -1,0 +1,25 @@
+<!DOCTYPE HTML>
+<html lang="en-SG">
+    <head>
+	    <link rel="stylesheet" href="awsm_theme_big-stone.css">
+	    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <h2 class = "header">Carl's Website</h2>
+        <nav>
+            <h3>Navigation</h3>
+            <ul>
+                <li><a href="https://cchan6969.github.io/FDFAB-AY22-23-S1-Chan-Carl/index.html">FDFAB</a> </li> <br>
+                <li><a href="https://cchan6969.github.io/Dfab-AY21-22S2-Chan-Carl/index.html">DFAB</a> </li> <br>
+            </ul>
+        </nav>
+        <div>
+            <p>
+            <h2>Certificates</h2>
+            </p>
+            <p>
+            <img src="img/Python_Cert.png" width="45%"><br>
+            </p>
+        </div>
+    </body>   
+</html> 
