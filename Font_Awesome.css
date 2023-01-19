@@ -76,14 +76,12 @@
 }
 .fa-rotate-90
 {
-    
     -webkit-transform:rotate(90deg);
     -ms-transform:rotate(90deg);
     transform:rotate(90deg)
 }
 .fa-rotate-180
 {
-    
     -webkit-transform:rotate(180deg);
     -ms-transform:rotate(180deg);
     transform:rotate(180deg)
